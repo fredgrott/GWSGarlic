@@ -10,6 +10,9 @@ hash of your self-signed key as only you and the app store you upload to do. ITS
 However, it does in fact put one more road-block to de-compiling an apk and replacing assets and
 uploading to a different app store or the same app store as a new app.
 
+I would like to thank the Japan Smartphone Security Association for their hard work on the
+Android Application Secure Design Secure Coding Guidebook.
+
 Usage
 =====
 
@@ -37,6 +40,8 @@ Api 16 to api 23.
 
 Credits
 ========
+
+[Android Application Secure Design Secure Coding Guidebook by the JSSEC](https//www.jssec.org/dl/android_securecoding_en.pdf)
 
 Fred Grott(aka shareme  GrottWorkShop)
 [MyGithubProfile](https://github.com/shareme/MyGithubProfile)
